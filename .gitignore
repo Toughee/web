@@ -5,3 +5,5 @@ src/config-dev.js
 node_modules/
 .next/
 static/
+ryr-reports/*
+!ryr-reports/ABOUT_REPORTS.md
